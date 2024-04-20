@@ -1,6 +1,9 @@
 ![Essential Software Design Patterns](thumbnail.jpg)
 
+# Essential Software Design Patterns
+
 ## Short Abstract
+
 Explore the pivotal role of effective design patterns in achieving maintainable, scalable, and robust systems within the dynamic landscape of software development. The presentation begins with an overview of design patterns, emphasizing their significance in modern software engineering. It then delves into a carefully selected set of essential design patterns, providing real-world examples and use cases to illustrate their practical applications. The session highlights each pattern's benefits and potential drawbacks, addressing concerns related to code maintainability, extensibility, and collaboration within development teams. We give special attention to pattern selection criteria, empowering participants to make informed decisions about applying specific patterns. By the session's end, attendees will possess a solid foundation in crucial software design patterns, enabling them to make informed design choices, write cleaner and more modular code, and confidently tackle complex software engineering challenges, benefiting both novice and experienced professionals in enhancing their development practices and elevating the quality of their software projects.
 
 ## Abstract
@@ -34,7 +37,9 @@ By the end of this presentation, attendees will be equipped with a solid foundat
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| Scenic City Summit 2024 | Chattanooga, TN | June 28, 2024 | TBA | TBA | Available Afterwards |
+| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/300463326/) | Louisville, KY | May 23, 2024 | 6:30 PM EDT | Slingshot | Available Afterwards |
+| Tulsa .NET User Group | Tulsa, OK (Online) | June 25, 2024 | 6:15 PM CDT | Online | Available Afterwards |
+| [Scenic City Summit 2024](https://sceniccitysummit.com/) | Chattanooga, TN | June 28, 2024 | 9:30 AM EDT | Tennessee River Room | Available Afterwards |
 
 ## Resources
 There are no additional resources for this presentation.
