@@ -1,6 +1,6 @@
 ![Essential Software Design Patterns](thumbnail.jpg)
 
-# Essential Software Design Patterns
+# Essential Software Design Patterns for Optimal Development
 
 ## Short Abstract
 
@@ -37,9 +37,10 @@ By the end of this presentation, attendees will be equipped with a solid foundat
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/300463326/) | Louisville, KY | May 23, 2024 | 6:30 PM EDT | Slingshot | Available Afterwards |
-| Tulsa .NET User Group | Tulsa, OK (Online) | June 25, 2024 | 6:15 PM CDT | Online | Available Afterwards |
+| [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | Lincoln, NE | July 17-19, 2024 | TBA | TBA | Available Afterwards |
 | [Scenic City Summit 2024](https://sceniccitysummit.com/) | Chattanooga, TN | June 28, 2024 | 9:30 AM EDT | Tennessee River Room | Available Afterwards |
+| Tulsa .NET User Group | Tulsa, OK (Online) | June 25, 2024 | 6:15 PM CDT | Online | Available Afterwards |
+| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/300463326/) | Louisville, KY | May 23, 2024 | 6:30 PM EDT | Slingshot | Available Afterwards |
 
 ## Resources
 There are no additional resources for this presentation.
