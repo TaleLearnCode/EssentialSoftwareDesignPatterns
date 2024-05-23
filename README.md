@@ -37,12 +37,16 @@ By the end of this presentation, attendees will be equipped with a solid foundat
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | Lincoln, NE | July 17-19, 2024 | TBA | TBA | Available Afterwards |
+| [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | Lincoln, NE | July 17-19, 2024 | 11:30 AM CDT | Arbor 2 | Available Afterwards |
 | [Scenic City Summit 2024](https://sceniccitysummit.com/) | Chattanooga, TN | June 28, 2024 | 9:30 AM EDT | Tennessee River Room | Available Afterwards |
 | Tulsa .NET User Group | Tulsa, OK (Online) | June 25, 2024 | 6:15 PM CDT | Online | Available Afterwards |
-| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/300463326/) | Louisville, KY | May 23, 2024 | 6:30 PM EDT | Slingshot | Available Afterwards |
-
-## Resources
-There are no additional resources for this presentation.
+| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/300463326/) | Louisville, KY | May 23, 2024 | 6:30 PM EDT | Slingshot | [Slides](EventMaterials\EssentialSoftwareDesignPatterns-LouDotNet.pdf) \|  [Code](Demos\) |
 
 Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Essential%20Software%20Design%20Patterns) to have Chad present this session at your event.
+
+## Resources
+
+- [Design Patterns: Elements of Reusable Object-Oriented Software](https://a.co/d/4iogpku) [Book]
+- [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software](https://a.co/d/24aA9PS) [Book]
+- [Design Pattern UML Examples](https://www.softwareideas.net/c/41/design-patterns) [Web Site]
+
