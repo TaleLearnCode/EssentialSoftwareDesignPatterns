@@ -37,6 +37,7 @@ By the end of this presentation, attendees will be equipped with a solid foundat
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
+| [Beer City Code 2024](https://www.beercitycode.com/) | Grand Rapids, MI | August 3, 2024 | 16:00 PM EDT | Room 135 | [Slides](EventMaterials/EssentialSoftwareDesignPatterns-BeerCityCode2024.pdf) / [Code](Demos/) |
 | [Nebraska.Code() 2024](https://nebraskacode.amegala.com/) | Lincoln, NE | July 17-19, 2024 | 11:30 AM CDT | Arbor 2 | [Slides](EventMaterials/EssentialSoftwareDesignPatterns-Nebraska2024.pdf)  / [Code](Demos/) |
 | [Scenic City Summit 2024](https://sceniccitysummit.com/) | Chattanooga, TN | June 28, 2024 | 9:30 AM EDT | Tennessee River Room | [Slides](EventMaterials/EssentialSoftwareDesignPatterns-ScenicCitySummit2024.pdf)  / [Code](Demos/) |
 | [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/300463326/) | Louisville, KY | May 23, 2024 | 6:30 PM EDT | Slingshot | [Slides](EventMaterials/EssentialSoftwareDesignPatterns-LouDotNet.pdf) / [Code](Demos/) |
