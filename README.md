@@ -1,6 +1,6 @@
 ![Essential Software Design Patterns](thumbnail.jpg)
 
-# Essential Software Design Patterns for Optimal Development
+# Mastering Essential Software Design Patterns for Optimal Development
 
 ## Short Abstract
 
