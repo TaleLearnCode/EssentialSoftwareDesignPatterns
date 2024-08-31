@@ -33,6 +33,12 @@ Unlock the power of design patterns for robust software. Learn key patterns, rea
 - Explore essential software design patterns with real-world examples and use cases.
 - Empower participants to make informed decisions about applying specific patterns based on criteria such as code maintainability and collaboration within development teams.
 
+## Prerequisites
+- **Basic Understanding of Programming Concepts**: Familiarity with fundamental programming concepts such as variables, loops, conditionals, and functions.
+- **Experience with Object-Oriented Programming (OOP)**: Knowledge of OOP principles like inheritance, polymorphism, encapsulation, and abstraction.
+- **Basic Software Development Experience**: Practical experience in writing and debugging code.
+- **Interest in Software Architecture**: A keen interest in learning about software architecture and design patterns and willingness to explore and apply new design techniques to improve code quality.
+
 ## Presentations
 
 | Event | Location | Date | Time | Room | Downloads |
